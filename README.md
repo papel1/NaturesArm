@@ -5,10 +5,11 @@ Nature’s Arm is a highly personalized application which can help a user to tak
 - Type: the user can select a type for each individual plant. The user can also add a new type to the database.
 - Location: the user can set the location of the plant. (Home, Work, Garden, Rented room, basement).
 - Task frequency: the user can set up a specified frequency for a reminder for the following use cases:
--- Watering
--- Fertilization
--- Spraying
--- Transplantation
+    - Watering
+    - Fertilization
+    - Spraying
+    - Transplantation
 - Generate QR Code:
--- A QR code can be generated which will later help the user to identify a plant.
--- The user can also save the mentioned QR code.
+    - A QR code can be generated which will later help the user to identify a plant.
+    - The user can also save the mentioned QR code.
+	
