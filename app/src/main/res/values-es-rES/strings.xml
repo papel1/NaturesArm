@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_my_plants">Mis plantas</string>
+    <string name="read_permission">Leer permiso de almacenamiento externo</string>
+    <string name="enable_permission">Habilite el acceso al almacenamiento externo.</string>
+    <string name="disables_permission">Ha inhabilitado para leer el permiso de almacenamiento externo</string>
+    <string name="warning">¡Deberías llenarlo todo!</string>
+    <string name="icon_todo">Lista de quehaceres</string>
+    <string name="icon_lux">Medidor de luz</string>
+    <string name="warning_lux">¡El dispositivo no tiene sensor de luz!</string>
+    <string name="icon_qr">Lector de códigos QR</string>
+    <string name="warning_qr">Fracasado…</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="language">Idioma</string>
+    <string name="theme">Tema</string>
+    <string name="textAutoCompleteTextView">Seleccione el idioma…</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="app_name">Nature\'s Arm</string>
+    <string name="light_meter_lux">LUX</string>
+    <string name="light_meter_fc">FC</string>
+    <string name="plant_name">Nombre de la planta…</string>
+    <string name="plant_desc">Descripción…</string>
+    <string name="plant_loc">Localización…</string>
+    <string name="plant_water">Frecuencia de \n riego… (días)</string>
+    <string name="plant_fert">Frecuencia de \n fertilización… (días)</string>
+    <string name="plant_trans">Frecuencia de \n trasplantes… (días)</string>
+    <string name="edit_button">EDITAR</string>
+    <string name="delete_button">ELIMINAR</string>
+    <string name="qr_save_toast">Descargando el código QR de la planta…</string>
+    <string name="save_button">AHORRAR</string>
+    <string name="gen_qr_button">GENERAR</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="erase">Base de datos</string>
+    <string name="erase_button">Borrar el contenido de la base de datos</string>
+    <string name="toast_yes">¡Se han borrado los datos de la base de datos!</string>
+    <string name="toast_no">¡Los datos NO se han borrado de la base de datos!</string>
+    <string name="erase_alertDialog">¿Está seguro de que desea borrar todos los datos de la base de datos?</string>
+    <string name="erase_alertDialog_yes">Sí</string>
+    <string name="erase_alertDialog_no">No</string>
+    <string name="cameraPermission">permiso de cámara concedido</string>
+    <string name="no_cameraPermission">permiso de cámara denegado</string>
+    <string name="mediastoreIOException">No se pudo crear un nuevo registro de MediaStore.</string>
+    <string name="outputstreamIOException">No se pudo obtener el flujo de salida.</string>
+    <string name="bitmapIOException">No se pudo guardar el mapa de bits.</string>
+    <string name="error">Error</string>
+
+    <string-array name="languages">
+        <item>hu,Húngaro</item>
+        <item>en,Inglés</item>
+        <item>es,Español</item>
+        <item>ru,Ruso</item>
+    </string-array>
+</resources>

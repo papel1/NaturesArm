@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_my_plants">Növényeim</string>
+    <string name="icon_todo">Feladatlista</string>
+    <string name="icon_lux">Fénymérő</string>
+    <string name="read_permission">Külső tárhely olvasása engedély</string>
+    <string name="enable_permission">Kérem, engedélyezze a hozzáférést a külső tárhelyhez.</string>
+    <string name="disables_permission">Letiltotta a külső tárolási engedélyek olvasását</string>
+    <string name="warning">Ki kellene töltened mindent!</string>
+    <string name="warning_lux">A készüléknek nincs fényérzékelője!</string>
+    <string name="icon_qr">QR-kód olvasó</string>
+    <string name="warning_qr">Sikertelen…</string>
+    <string name="title_settings">Beállítások</string>
+    <string name="language">Nyelv</string>
+    <string name="theme">Téma</string>
+    <string name="textAutoCompleteTextView">Válasszon nyelvet…</string>
+    <string name="title_activity_maps">Térkép</string>
+    <string name="app_name">Nature\'s Arm</string>
+    <string name="light_meter_lux">LUX</string>
+    <string name="light_meter_fc">FC</string>
+    <string name="plant_name">Növény neve…</string>
+    <string name="plant_desc">Leírás…</string>
+    <string name="plant_loc">Elhelyezkedés…</string>
+    <string name="plant_water">Öntözési \n gyakoriság… (nap)</string>
+    <string name="plant_fert">Trágyázási \n gyakoriság… (nap)</string>
+    <string name="plant_trans">Átültetési \n gyakoriság… (nap)</string>
+    <string name="edit_button">SZERKESZTÉS</string>
+    <string name="delete_button">TÖRÖL</string>
+    <string name="qr_save_toast">A növény QR-kódja letöltődik …</string>
+    <string name="save_button">MENTÉS</string>
+    <string name="gen_qr_button">GENERÁL</string>
+    <string name="light">Világos</string>
+    <string name="dark">Sötét</string>
+    <string name="erase">Adatbázis</string>
+    <string name="erase_button">Törölje az adatbázis tartalmát</string>
+    <string name="toast_yes">Az adatok törlődtek az adatbázisból!</string>
+    <string name="toast_no">Az adatokat NEM törölték az adatbázisból!</string>
+    <string name="erase_alertDialog">Biztosan törli az összes adatot az adatbázisból?</string>
+    <string name="erase_alertDialog_yes">Igen</string>
+    <string name="erase_alertDialog_no">Nem</string>
+    <string name="cameraPermission">kamera engedély megadva</string>
+    <string name="no_cameraPermission">kamera engedélye megtagadva</string>
+    <string name="mediastoreIOException">Nem sikerült létrehozni az új MediaStore rekordot.</string>
+    <string name="outputstreamIOException">Nem sikerült lekérni a kimeneti adatfolyamot.</string>
+    <string name="bitmapIOException">Nem sikerült menteni a bitképet.</string>
+    <string name="error">Hiba</string>
+
+    <string-array name="languages">
+        <item>hu,Magyar</item>
+        <item>en,Angol</item>
+        <item>es,Spanyol</item>
+        <item>ru,Orosz</item>
+    </string-array>
+</resources>

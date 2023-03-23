@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nature\'s Arm</string>
+    <string name="icon_my_plants">Мои растения</string>
+    <string name="icon_todo">Список дел</string>
+    <string name="icon_lux">Люксметр</string>
+    <string name="light_meter_lux">LUX</string>
+    <string name="light_meter_fc">FC</string>
+    <string name="read_permission">Разрешение на чтение внешнего хранилища</string>
+    <string name="enable_permission">Пожалуйста, разрешите доступ к внешнему хранилищу.</string>
+    <string name="disables_permission">Вы отключили разрешение на чтение внешнего хранилища</string>
+    <string name="warning">Вы должны заполнить все!</string>
+    <string name="warning_lux">В устройстве нет датчика освещенности!</string>
+    <string name="icon_qr">Считыватель QR-кода</string>
+    <string name="warning_qr">Неудачно…</string>
+    <string name="title_settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="theme">Тема</string>
+    <string name="textAutoCompleteTextView">Выберите язык…</string>
+    <string name="title_activity_maps">карта</string>
+    <string name="plant_name">Название растения…</string>
+    <string name="plant_desc">Описание…</string>
+    <string name="plant_loc">Место расположения…</string>
+    <string name="plant_water">Частота \n полива… (дни)</string>
+    <string name="plant_fert">Частота внесения \n удобрений… (дни)</string>
+    <string name="plant_trans">Частота \n трансплантации… (дни)</string>
+    <string name="edit_button">РЕДАКТИРОВАТЬ</string>
+    <string name="delete_button">УДАЛИТЬ</string>
+    <string name="qr_save_toast">QR-код завода загружается…</string>
+    <string name="save_button">СПАСТИ</string>
+    <string name="gen_qr_button">СОЗДАТЬ</string>
+    <string name="light">Свет</string>
+    <string name="dark">Темный</string>
+    <string name="erase">База данных</string>
+    <string name="erase_button">Стереть содержимое базы данных</string>
+    <string name="toast_yes">Данные удалены из базы данных!</string>
+    <string name="toast_no">Данные НЕ были удалены из базы данных!</string>
+    <string name="erase_alertDialog">Вы уверены, что хотите стереть все данные из базы данных?</string>
+    <string name="erase_alertDialog_yes">да</string>
+    <string name="erase_alertDialog_no">No</string>
+    <string name="cameraPermission">разрешение камеры предоставлено</string>
+    <string name="no_cameraPermission">разрешение камеры отклонено</string>
+    <string name="mediastoreIOException">Не удалось создать новую запись MediaStore.</string>
+    <string name="outputstreamIOException">Не удалось получить выходной поток.</string>
+    <string name="bitmapIOException">Не удалось сохранить растровое изображение.</string>
+    <string name="error">Ошибка</string>
+
+    <string-array name="languages">
+        <item>hu,Венгерский</item>
+        <item>en,Английский</item>
+        <item>es,Испанский</item>
+        <item>ru,Русский</item>
+    </string-array>
+</resources>
